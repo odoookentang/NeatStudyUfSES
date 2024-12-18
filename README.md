@@ -1,3 +1,5 @@
+> This project faced a significant delay. Do not expect the app to be complete in such short time ;D
+
 # NSUfSES
 NeatStudy -  focused-User Studying Enahcement System (abbreviatedd as NSUfSES or NSfUSES or simplified as NUSE, pronouced Noose) is an application designed to make students study in a locked-in (similarly to how a Kiosk app might work) environment, in order to reduce distractions, and by such helping them to learn quicker.
 
@@ -25,7 +27,7 @@ While this app is in progress, there are a couple things you can expect to be av
 [] Account System
 
 ### Studying Materials
-This is currently being worked on. As for how wull this be 
+This is currently being worked on. As for how will this be implemented, it could be through Markdown for easier integration with the web technologies being used.
 
 ## Backend Technologies Used
 
