@@ -20,11 +20,11 @@ This app is developed in accordance to the GYIIF 2024/5 project, as part of a co
 ## Possible Features
 While this app is in progress, there are a couple things you can expect to be available in the first release.
 
-[] Studying materials
-[] Rewards system
-[] Locking-in feature*
-[] Quizzing
-[] Account System
+    [ ] Studying materials
+    [ ] Rewards system
+    [ ] Locking-in feature*
+    [ ] Quizzing
+    [ ] Account System
 
 ### Studying Materials
 This is currently being worked on. As for how will this be implemented, it could be through Markdown for easier integration with the web technologies being used.
